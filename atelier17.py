@@ -1,6 +1,3 @@
-# Utilisation d’un module : Turtle
-# 1. Écrire un programme carre.py qui trace un carré.
-
 from turtle import *
 
 c=2
